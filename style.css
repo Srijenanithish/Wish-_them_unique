@@ -8,3 +8,17 @@
     font-size: 90px;
     font-family: 'Eater', cursive;
 }
+.name{
+    padding-right: 100px;
+    margin-left:420px;
+    margin-top:20px;
+    text-align:center;
+    background:linear-gradient(to bottom, #ff0000 0%, #660066 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
+    font-size: 80px;
+    font-family: 'Henny Penny', cursive;
+    display:inline-block;
+
+}
