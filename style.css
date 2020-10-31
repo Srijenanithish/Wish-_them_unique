@@ -42,3 +42,10 @@
     transform:rotateY(-360deg) translateZ(-300px);
     animation:animate 25s steps(1000,end) infinite;
 }
+.single-img{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    top: 10px;
+    left:10px;
+}
