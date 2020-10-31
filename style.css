@@ -72,3 +72,19 @@
 .single-img.img-six{
     transform:rotateY(300deg) translateZ(300px);
 }
+img{
+    transition: 1s;
+    cursor: pointer;
+}
+img:hover{
+    transition: 1s;
+}
+@keyframes animate{
+    from{
+        transform: rotateY(-360deg);
+    }
+    to{
+        transform: rotate(0deg);
+    }
+}
+
